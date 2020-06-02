@@ -1,7 +1,7 @@
 package main
 
 import (
-	"flags"
+	"flag"
 	"io"
 	"log"
 	"net"
